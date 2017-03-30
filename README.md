@@ -15,7 +15,9 @@ Visualization/display tools
 Data I/O tools
 Hyper Parameter management (hyper param management)
 Checkpoint management (loading from non checkpoints, numpy files)
+TF Session management
 
 ###Stand Alone tools
 Checkpoint inspector
 Checkpoint reMapper (converting between model names)
+Task Scheduler (maybe even networked!) queue experiements to run
